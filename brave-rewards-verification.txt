@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: railway.app
+Token: 09b2c07d979588be0db3020300ef58114a10865fa5610186445699264d2ba335
